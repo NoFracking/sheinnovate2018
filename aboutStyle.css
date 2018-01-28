@@ -90,6 +90,8 @@ body {
     background: #f2ffcc;
     vertical-align: top;
     display: inline-block;
+    *display: inline;
+    zoom:1;
     margin-top: 10%;
     margin-left: 55px;
     border-bottom:1px solid yellow;
