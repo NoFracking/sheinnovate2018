@@ -77,7 +77,7 @@ body {
   padding: 0;
   background: url(https://static.pexels.com/photos/8633/nature-tree-green-pine.jpg) no-repeat;
   width: 25%vw;
-  height: 100vh;
+  height: 100%vh;
   background-size: cover;
 }
 
